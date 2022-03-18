@@ -1,0 +1,4 @@
+[05-Jan-2022 14:50:56 Europe/Istanbul] PHP Notice:  Undefined variable: Fields in /home/u0368484/public_html/sayicmimarlik/mail.php on line 12
+[05-Jan-2022 14:50:56 Europe/Istanbul] PHP Warning:  mail() has been disabled for security reasons in /home/u0368484/public_html/sayicmimarlik/mail.php on line 30
+[05-Jan-2022 14:54:09 Europe/Istanbul] PHP Notice:  Undefined variable: Fields in /home/u0368484/public_html/sayicmimarlik/mail.php on line 12
+[05-Jan-2022 14:54:09 Europe/Istanbul] PHP Warning:  mail() has been disabled for security reasons in /home/u0368484/public_html/sayicmimarlik/mail.php on line 30
